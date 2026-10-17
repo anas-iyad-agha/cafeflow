@@ -1,0 +1,12 @@
+{
+  "routes": [
+    { "path": "/", "title": "Café overview" },
+    { "path": "/cafes", "title": "My cafés" },
+    { "path": "/menu", "title": "Menu manager" },
+    { "path": "/orders", "title": "Order inbox" },
+    { "path": "/settings", "title": "Café settings" },
+    { "path": "/users", "title": "Users and roles" },
+    { "path": "/c/:slug", "title": "Customer menu" },
+    { "path": "/order/:token", "title": "Order confirmation" }
+  ]
+}
